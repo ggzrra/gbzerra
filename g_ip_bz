@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Z6e4O-rLFI6rJLKw9VKUpHpCTJJP2hlzY3DxCPZcHMQpU5QzZFlAI92vuEoZLgGlmi3pbyXTudDLnAk19CveZSMlc8d7B3N5Jk6F3jynea1puzzFJX_FkLw3wnycsL_0Kz4QVwNg9crFiQpVnhFZa69E8bPP7qgN88TJ-y6v" group-title="TV ABERTA",ESPN BR SD 
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/33/items/multishow-logo-3/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="CANAIS",VIVA HD
-https://cdn.esporteone.com/VIVAHD/video.m3u8?token=fcff7cd63cfe1de2098810c7fb79865d&expires=1597981813&ip=69.116.59.231
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/33/items/multishow-logo-3/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="CANAIS",VIVA
+https://cdn.esporteone.com/VIVASD/video.m3u8?token=b6071b4e67b3f66db68cf655bbe4731b&expires=1598008153&ip=45.162.31.82
 
 #EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/33/items/multishow-logo-3/download.png" group-title="CANAIS",MTV
-ERROR
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/multishow-logo-3/multishow-logo-3.png" group-title="categoria" group-title="CANAIS",MULTISHOW
-https://cdn.esporteone.com/MULTISHOW/video.m3u8?token=3991841e28c3297aa2cef80de8f5b527&expires=1597981877&ip=177.155.204.116
+#EXTINF:-1 tvg-logo="https://archive.org/download/multishow-logo-3/multishow-logo-3.png" group-title="categoria" group-title="CANAIS",warner
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOWARHD)/stream_5/Segment-2990651114450000.m4a
